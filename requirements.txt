@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+-U g4f
+curl-cffi
+Telethon
+langdetect
+nest-asyncio
